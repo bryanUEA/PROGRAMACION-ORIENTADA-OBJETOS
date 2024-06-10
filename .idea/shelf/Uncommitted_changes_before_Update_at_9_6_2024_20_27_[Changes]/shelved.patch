@@ -1,0 +1,186 @@
+Index: .idea/workspace.xml
+===================================================================
+diff --git a/.idea/workspace.xml b/.idea/workspace.xml
+deleted file mode 100644
+--- a/.idea/workspace.xml	(revision 922ec22b4f3bee328b9d1fa877e81ee6d7267872)
++++ /dev/null	(revision 922ec22b4f3bee328b9d1fa877e81ee6d7267872)
+@@ -1,166 +0,0 @@
+-<?xml version="1.0" encoding="UTF-8"?>
+-<project version="4">
+-  <component name="AutoImportSettings">
+-    <option name="autoReloadType" value="SELECTIVE" />
+-  </component>
+-  <component name="ChangeListManager">
+-    <list default="true" id="7393dca2-baa1-4725-982f-2b1083932731" name="Changes" comment="SEMANA 2" />
+-    <option name="SHOW_DIALOG" value="false" />
+-    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+-    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+-    <option name="LAST_RESOLUTION" value="IGNORE" />
+-  </component>
+-  <component name="FileTemplateManagerImpl">
+-    <option name="RECENT_TEMPLATES">
+-      <list>
+-        <option value="Python Script" />
+-      </list>
+-    </option>
+-  </component>
+-  <component name="Git.Settings">
+-    <option name="PREVIOUS_COMMIT_AUTHORS">
+-      <list>
+-        <option value="Bryan Simbaña &lt;ba.simbanaa@uea.edu.ec&gt;" />
+-      </list>
+-    </option>
+-    <option name="PUSH_AUTO_UPDATE" value="true" />
+-    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+-  </component>
+-  <component name="ProjectColorInfo">{
+-  &quot;associatedIndex&quot;: 2
+-}</component>
+-  <component name="ProjectId" id="2hfMSeVmybblGUGDWRapk9Zv9xI" />
+-  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+-    <ConfirmationsSetting value="2" id="Add" />
+-  </component>
+-  <component name="ProjectViewState">
+-    <option name="hideEmptyMiddlePackages" value="true" />
+-    <option name="showLibraryContents" value="true" />
+-  </component>
+-  <component name="PropertiesComponent"><![CDATA[{
+-  "keyToString": {
+-    "Python.POO.executor": "Run",
+-    "Python.SEMANA 2.executor": "Run",
+-    "RunOnceActivity.OpenProjectViewOnStart": "true",
+-    "RunOnceActivity.ShowReadmeOnStart": "true",
+-    "git-widget-placeholder": "master",
+-    "settings.editor.selected.configurable": "preferences.pluginManager"
+-  }
+-}]]></component>
+-  <component name="RecentsManager">
+-    <key name="MoveFile.RECENT_KEYS">
+-      <recent name="C:\Users\bryan\PycharmProjects\PROGRAMACION ORIENTADA OBJETOS\SEMANA 2" />
+-    </key>
+-  </component>
+-  <component name="SharedIndexes">
+-    <attachedChunks>
+-      <set>
+-        <option value="bundled-python-sdk-09665e90c3a7-d3b881c8e49f-com.jetbrains.pycharm.community.sharedIndexes.bundled-PC-233.15026.15" />
+-      </set>
+-    </attachedChunks>
+-  </component>
+-  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+-  <component name="TaskManager">
+-    <task active="true" id="Default" summary="Default task">
+-      <changelist id="7393dca2-baa1-4725-982f-2b1083932731" name="Changes" comment="" />
+-      <created>1717980680272</created>
+-      <option name="number" value="Default" />
+-      <option name="presentableId" value="Default" />
+-      <updated>1717980680272</updated>
+-    </task>
+-    <task id="LOCAL-00001" summary="SEMANA 2">
+-      <option name="closed" value="true" />
+-      <created>1717980988663</created>
+-      <option name="number" value="00001" />
+-      <option name="presentableId" value="LOCAL-00001" />
+-      <option name="project" value="LOCAL" />
+-      <updated>1717980988663</updated>
+-    </task>
+-    <task id="LOCAL-00002" summary="SEMANA 2">
+-      <option name="closed" value="true" />
+-      <created>1717980998717</created>
+-      <option name="number" value="00002" />
+-      <option name="presentableId" value="LOCAL-00002" />
+-      <option name="project" value="LOCAL" />
+-      <updated>1717980998717</updated>
+-    </task>
+-    <task id="LOCAL-00003" summary="SEMANA 2">
+-      <option name="closed" value="true" />
+-      <created>1717981113961</created>
+-      <option name="number" value="00003" />
+-      <option name="presentableId" value="LOCAL-00003" />
+-      <option name="project" value="LOCAL" />
+-      <updated>1717981113961</updated>
+-    </task>
+-    <task id="LOCAL-00004" summary="SEMANA 2">
+-      <option name="closed" value="true" />
+-      <created>1717981126027</created>
+-      <option name="number" value="00004" />
+-      <option name="presentableId" value="LOCAL-00004" />
+-      <option name="project" value="LOCAL" />
+-      <updated>1717981126027</updated>
+-    </task>
+-    <task id="LOCAL-00005" summary="SEMANA 2">
+-      <option name="closed" value="true" />
+-      <created>1717981171600</created>
+-      <option name="number" value="00005" />
+-      <option name="presentableId" value="LOCAL-00005" />
+-      <option name="project" value="LOCAL" />
+-      <updated>1717981171600</updated>
+-    </task>
+-    <task id="LOCAL-00006" summary="SEMANA 2">
+-      <option name="closed" value="true" />
+-      <created>1717981203731</created>
+-      <option name="number" value="00006" />
+-      <option name="presentableId" value="LOCAL-00006" />
+-      <option name="project" value="LOCAL" />
+-      <updated>1717981203731</updated>
+-    </task>
+-    <task id="LOCAL-00007" summary="SEMANA 2">
+-      <option name="closed" value="true" />
+-      <created>1717981864009</created>
+-      <option name="number" value="00007" />
+-      <option name="presentableId" value="LOCAL-00007" />
+-      <option name="project" value="LOCAL" />
+-      <updated>1717981864009</updated>
+-    </task>
+-    <task id="LOCAL-00008" summary="SEMANA 2">
+-      <option name="closed" value="true" />
+-      <created>1717981966329</created>
+-      <option name="number" value="00008" />
+-      <option name="presentableId" value="LOCAL-00008" />
+-      <option name="project" value="LOCAL" />
+-      <updated>1717981966329</updated>
+-    </task>
+-    <task id="LOCAL-00009" summary="SEMANA 2">
+-      <option name="closed" value="true" />
+-      <created>1717981977770</created>
+-      <option name="number" value="00009" />
+-      <option name="presentableId" value="LOCAL-00009" />
+-      <option name="project" value="LOCAL" />
+-      <updated>1717981977770</updated>
+-    </task>
+-    <task id="LOCAL-00010" summary="SEMANA 2">
+-      <option name="closed" value="true" />
+-      <created>1717982114254</created>
+-      <option name="number" value="00010" />
+-      <option name="presentableId" value="LOCAL-00010" />
+-      <option name="project" value="LOCAL" />
+-      <updated>1717982114254</updated>
+-    </task>
+-    <task id="LOCAL-00011" summary="SEMANA 2">
+-      <option name="closed" value="true" />
+-      <created>1717982127015</created>
+-      <option name="number" value="00011" />
+-      <option name="presentableId" value="LOCAL-00011" />
+-      <option name="project" value="LOCAL" />
+-      <updated>1717982127015</updated>
+-    </task>
+-    <option name="localTasksCounter" value="12" />
+-    <servers />
+-  </component>
+-  <component name="VcsManagerConfiguration">
+-    <MESSAGE value="SEMANA 2" />
+-    <option name="LAST_COMMIT_MESSAGE" value="SEMANA 2" />
+-  </component>
+-</project>
+\ No newline at end of file
+Index: .idea/shelf/Uncommitted_changes_before_Update_at_9_6_2024_20_09__Changes_.xml
+===================================================================
+diff --git a/.idea/shelf/Uncommitted_changes_before_Update_at_9_6_2024_20_09__Changes_.xml b/.idea/shelf/Uncommitted_changes_before_Update_at_9_6_2024_20_09__Changes_.xml
+deleted file mode 100644
+--- a/.idea/shelf/Uncommitted_changes_before_Update_at_9_6_2024_20_09__Changes_.xml	(revision 922ec22b4f3bee328b9d1fa877e81ee6d7267872)
++++ /dev/null	(revision 922ec22b4f3bee328b9d1fa877e81ee6d7267872)
+@@ -1,4 +0,0 @@
+-<changelist name="Uncommitted_changes_before_Update_at_9_6_2024_20_09_[Changes]" date="1717981779055" recycled="false" toDelete="true">
+-  <option name="PATH" value="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_9_6_2024_20_09_[Changes]/shelved.patch" />
+-  <option name="DESCRIPTION" value="Uncommitted changes before Update at 9/6/2024 20:09 [Changes]" />
+-</changelist>
+\ No newline at end of file
