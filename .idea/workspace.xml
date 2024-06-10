@@ -1,27 +1,58 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
   <component name="ChangeListManager">
-    <list default="true" id="7393dca2-baa1-4725-982f-2b1083932731" name="Changes" comment="" />
+    <list default="true" id="7393dca2-baa1-4725-982f-2b1083932731" name="Changes" comment="SEMANA 2">
+      <change beforePath="$PROJECT_DIR$/SEMANA 2/POO.py" beforeDir="false" afterPath="$PROJECT_DIR$/POO.py" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="PREVIOUS_COMMIT_AUTHORS">
+      <list>
+        <option value="Bryan Simbaña &lt;ba.simbanaa@uea.edu.ec&gt;" />
+      </list>
+    </option>
+    <option name="PUSH_AUTO_UPDATE" value="true" />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="ProjectColorInfo"><![CDATA[{
   "associatedIndex": 2
 }]]></component>
   <component name="ProjectId" id="2hfMSeVmybblGUGDWRapk9Zv9xI" />
-  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
+    "Python.POO.executor": "Run",
+    "Python.SEMANA 2.executor": "Run",
     "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true"
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "git-widget-placeholder": "master"
   }
 }]]></component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\bryan\PycharmProjects\PROGRAMACION ORIENTADA OBJETOS\SEMANA 2" />
+    </key>
+  </component>
   <component name="SharedIndexes">
     <attachedChunks>
       <set>
@@ -38,6 +69,59 @@
       <option name="presentableId" value="Default" />
       <updated>1717980680272</updated>
     </task>
+    <task id="LOCAL-00001" summary="SEMANA 2">
+      <option name="closed" value="true" />
+      <created>1717980988663</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1717980988663</updated>
+    </task>
+    <task id="LOCAL-00002" summary="SEMANA 2">
+      <option name="closed" value="true" />
+      <created>1717980998717</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1717980998717</updated>
+    </task>
+    <task id="LOCAL-00003" summary="SEMANA 2">
+      <option name="closed" value="true" />
+      <created>1717981113961</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1717981113961</updated>
+    </task>
+    <task id="LOCAL-00004" summary="SEMANA 2">
+      <option name="closed" value="true" />
+      <created>1717981126027</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1717981126027</updated>
+    </task>
+    <task id="LOCAL-00005" summary="SEMANA 2">
+      <option name="closed" value="true" />
+      <created>1717981171600</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1717981171600</updated>
+    </task>
+    <task id="LOCAL-00006" summary="SEMANA 2">
+      <option name="closed" value="true" />
+      <created>1717981203731</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1717981203731</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="SEMANA 2" />
+    <option name="LAST_COMMIT_MESSAGE" value="SEMANA 2" />
   </component>
 </project>
