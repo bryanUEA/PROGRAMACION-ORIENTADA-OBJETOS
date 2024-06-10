@@ -1,0 +1,47 @@
+Index: .idea/workspace.xml
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.BaseRevisionTextPatchEP
+<+><?xml version=\"1.0\" encoding=\"UTF-8\"?>\r\n<project version=\"4\">\r\n  <component name=\"AutoImportSettings\">\r\n    <option name=\"autoReloadType\" value=\"SELECTIVE\" />\r\n  </component>\r\n  <component name=\"ChangeListManager\">\r\n    <list default=\"true\" id=\"7393dca2-baa1-4725-982f-2b1083932731\" name=\"Changes\" comment=\"SEMANA 2\">\r\n      <change beforePath=\"$PROJECT_DIR$/SEMANA 2/POO.py\" beforeDir=\"false\" afterPath=\"$PROJECT_DIR$/POO.py\" afterDir=\"false\" />\r\n    </list>\r\n    <option name=\"SHOW_DIALOG\" value=\"false\" />\r\n    <option name=\"HIGHLIGHT_CONFLICTS\" value=\"true\" />\r\n    <option name=\"HIGHLIGHT_NON_ACTIVE_CHANGELIST\" value=\"false\" />\r\n    <option name=\"LAST_RESOLUTION\" value=\"IGNORE\" />\r\n  </component>\r\n  <component name=\"FileTemplateManagerImpl\">\r\n    <option name=\"RECENT_TEMPLATES\">\r\n      <list>\r\n        <option value=\"Python Script\" />\r\n      </list>\r\n    </option>\r\n  </component>\r\n  <component name=\"Git.Settings\">\r\n    <option name=\"PREVIOUS_COMMIT_AUTHORS\">\r\n      <list>\r\n        <option value=\"Bryan Simbaña &lt;ba.simbanaa@uea.edu.ec&gt;\" />\r\n      </list>\r\n    </option>\r\n    <option name=\"PUSH_AUTO_UPDATE\" value=\"true\" />\r\n    <option name=\"RECENT_GIT_ROOT_PATH\" value=\"$PROJECT_DIR$\" />\r\n  </component>\r\n  <component name=\"ProjectColorInfo\"><![CDATA[{\r\n  \"associatedIndex\": 2\r\n}]]></component>\r\n  <component name=\"ProjectId\" id=\"2hfMSeVmybblGUGDWRapk9Zv9xI\" />\r\n  <component name=\"ProjectLevelVcsManager\" settingsEditedManually=\"true\">\r\n    <ConfirmationsSetting value=\"2\" id=\"Add\" />\r\n  </component>\r\n  <component name=\"ProjectViewState\">\r\n    <option name=\"hideEmptyMiddlePackages\" value=\"true\" />\r\n    <option name=\"showLibraryContents\" value=\"true\" />\r\n  </component>\r\n  <component name=\"PropertiesComponent\"><![CDATA[{\r\n  \"keyToString\": {\r\n    \"Python.POO.executor\": \"Run\",\r\n    \"Python.SEMANA 2.executor\": \"Run\",\r\n    \"RunOnceActivity.OpenProjectViewOnStart\": \"true\",\r\n    \"RunOnceActivity.ShowReadmeOnStart\": \"true\",\r\n    \"git-widget-placeholder\": \"master\"\r\n  }\r\n}]]></component>\r\n  <component name=\"RecentsManager\">\r\n    <key name=\"MoveFile.RECENT_KEYS\">\r\n      <recent name=\"C:\\Users\\bryan\\PycharmProjects\\PROGRAMACION ORIENTADA OBJETOS\\SEMANA 2\" />\r\n    </key>\r\n  </component>\r\n  <component name=\"SharedIndexes\">\r\n    <attachedChunks>\r\n      <set>\r\n        <option value=\"bundled-python-sdk-09665e90c3a7-d3b881c8e49f-com.jetbrains.pycharm.community.sharedIndexes.bundled-PC-233.15026.15\" />\r\n      </set>\r\n    </attachedChunks>\r\n  </component>\r\n  <component name=\"SpellCheckerSettings\" RuntimeDictionaries=\"0\" Folders=\"0\" CustomDictionaries=\"0\" DefaultDictionary=\"application-level\" UseSingleDictionary=\"true\" transferred=\"true\" />\r\n  <component name=\"TaskManager\">\r\n    <task active=\"true\" id=\"Default\" summary=\"Default task\">\r\n      <changelist id=\"7393dca2-baa1-4725-982f-2b1083932731\" name=\"Changes\" comment=\"\" />\r\n      <created>1717980680272</created>\r\n      <option name=\"number\" value=\"Default\" />\r\n      <option name=\"presentableId\" value=\"Default\" />\r\n      <updated>1717980680272</updated>\r\n    </task>\r\n    <task id=\"LOCAL-00001\" summary=\"SEMANA 2\">\r\n      <option name=\"closed\" value=\"true\" />\r\n      <created>1717980988663</created>\r\n      <option name=\"number\" value=\"00001\" />\r\n      <option name=\"presentableId\" value=\"LOCAL-00001\" />\r\n      <option name=\"project\" value=\"LOCAL\" />\r\n      <updated>1717980988663</updated>\r\n    </task>\r\n    <task id=\"LOCAL-00002\" summary=\"SEMANA 2\">\r\n      <option name=\"closed\" value=\"true\" />\r\n      <created>1717980998717</created>\r\n      <option name=\"number\" value=\"00002\" />\r\n      <option name=\"presentableId\" value=\"LOCAL-00002\" />\r\n      <option name=\"project\" value=\"LOCAL\" />\r\n      <updated>1717980998717</updated>\r\n    </task>\r\n    <task id=\"LOCAL-00003\" summary=\"SEMANA 2\">\r\n      <option name=\"closed\" value=\"true\" />\r\n      <created>1717981113961</created>\r\n      <option name=\"number\" value=\"00003\" />\r\n      <option name=\"presentableId\" value=\"LOCAL-00003\" />\r\n      <option name=\"project\" value=\"LOCAL\" />\r\n      <updated>1717981113961</updated>\r\n    </task>\r\n    <task id=\"LOCAL-00004\" summary=\"SEMANA 2\">\r\n      <option name=\"closed\" value=\"true\" />\r\n      <created>1717981126027</created>\r\n      <option name=\"number\" value=\"00004\" />\r\n      <option name=\"presentableId\" value=\"LOCAL-00004\" />\r\n      <option name=\"project\" value=\"LOCAL\" />\r\n      <updated>1717981126027</updated>\r\n    </task>\r\n    <task id=\"LOCAL-00005\" summary=\"SEMANA 2\">\r\n      <option name=\"closed\" value=\"true\" />\r\n      <created>1717981171600</created>\r\n      <option name=\"number\" value=\"00005\" />\r\n      <option name=\"presentableId\" value=\"LOCAL-00005\" />\r\n      <option name=\"project\" value=\"LOCAL\" />\r\n      <updated>1717981171600</updated>\r\n    </task>\r\n    <task id=\"LOCAL-00006\" summary=\"SEMANA 2\">\r\n      <option name=\"closed\" value=\"true\" />\r\n      <created>1717981203731</created>\r\n      <option name=\"number\" value=\"00006\" />\r\n      <option name=\"presentableId\" value=\"LOCAL-00006\" />\r\n      <option name=\"project\" value=\"LOCAL\" />\r\n      <updated>1717981203731</updated>\r\n    </task>\r\n    <option name=\"localTasksCounter\" value=\"7\" />\r\n    <servers />\r\n  </component>\r\n  <component name=\"VcsManagerConfiguration\">\r\n    <MESSAGE value=\"SEMANA 2\" />\r\n    <option name=\"LAST_COMMIT_MESSAGE\" value=\"SEMANA 2\" />\r\n  </component>\r\n</project>
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+diff --git a/.idea/workspace.xml b/.idea/workspace.xml
+--- a/.idea/workspace.xml	(revision 2a1dd99e2f8346f927db27f9ad491514ba6093f4)
++++ b/.idea/workspace.xml	(date 1717981749041)
+@@ -5,7 +5,10 @@
+   </component>
+   <component name="ChangeListManager">
+     <list default="true" id="7393dca2-baa1-4725-982f-2b1083932731" name="Changes" comment="SEMANA 2">
+-      <change beforePath="$PROJECT_DIR$/SEMANA 2/POO.py" beforeDir="false" afterPath="$PROJECT_DIR$/POO.py" afterDir="false" />
++      <change afterPath="$PROJECT_DIR$/SEMANA 2/ABSTRACCION/abstraccion.py" afterDir="false" />
++      <change afterPath="$PROJECT_DIR$/SEMANA 2/ENCAPSULACION/encapsulacion.py" afterDir="false" />
++      <change afterPath="$PROJECT_DIR$/SEMANA 2/HERENCIA/herencia.py" afterDir="false" />
++      <change afterPath="$PROJECT_DIR$/SEMANA 2/POLIMORFISMO/polimorfismo.py" afterDir="false" />
+     </list>
+     <option name="SHOW_DIALOG" value="false" />
+     <option name="HIGHLIGHT_CONFLICTS" value="true" />
+@@ -117,7 +120,23 @@
+       <option name="project" value="LOCAL" />
+       <updated>1717981203731</updated>
+     </task>
+-    <option name="localTasksCounter" value="7" />
++    <task id="LOCAL-00007" summary="SEMANA 2">
++      <option name="closed" value="true" />
++      <created>1717981500731</created>
++      <option name="number" value="00007" />
++      <option name="presentableId" value="LOCAL-00007" />
++      <option name="project" value="LOCAL" />
++      <updated>1717981500731</updated>
++    </task>
++    <task id="LOCAL-00008" summary="SEMANA 2">
++      <option name="closed" value="true" />
++      <created>1717981510793</created>
++      <option name="number" value="00008" />
++      <option name="presentableId" value="LOCAL-00008" />
++      <option name="project" value="LOCAL" />
++      <updated>1717981510793</updated>
++    </task>
++    <option name="localTasksCounter" value="9" />
+     <servers />
+   </component>
+   <component name="VcsManagerConfiguration">
