@@ -4,11 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="7393dca2-baa1-4725-982f-2b1083932731" name="Changes" comment="SEMANA 2">
-      <change beforePath="$PROJECT_DIR$/SEMANA 2/ABSTRACCION/abstraccion.py" beforeDir="false" afterPath="$PROJECT_DIR$/SEMANA 2/ABSTRACCION/abstraccion.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/SEMANA 2/ENCAPSULACION/encapsulacion.py" beforeDir="false" afterPath="$PROJECT_DIR$/SEMANA 2/ENCAPSULACION/encapsulacion.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/SEMANA 2/HERENCIA/herencia.py" beforeDir="false" afterPath="$PROJECT_DIR$/SEMANA 2/HERENCIA/herencia.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/SEMANA 2/POLIMORFISMO/polimorfismo.py" beforeDir="false" afterPath="$PROJECT_DIR$/SEMANA 2/POLIMORFISMO/polimorfismo.py" afterDir="false" />
+    <list default="true" id="7393dca2-baa1-4725-982f-2b1083932731" name="Changes" comment="Merge remote-tracking branch 'origin/master'&#10;&#10;# Conflicts:&#10;#&#9;.idea/workspace.xml">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -42,20 +39,20 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "Python.POO.executor": "Run",
-    "Python.SEMANA 2.executor": "Run",
-    "Python.abstraccion.executor": "Run",
-    "Python.encapsulacion.executor": "Run",
-    "Python.herencia.executor": "Run",
-    "Python.polimorfismo.executor": "Run",
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "git-widget-placeholder": "master",
-    "settings.editor.selected.configurable": "preferences.pluginManager"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;Python.POO.executor&quot;: &quot;Run&quot;,
+    &quot;Python.SEMANA 2.executor&quot;: &quot;Run&quot;,
+    &quot;Python.abstraccion.executor&quot;: &quot;Run&quot;,
+    &quot;Python.encapsulacion.executor&quot;: &quot;Run&quot;,
+    &quot;Python.herencia.executor&quot;: &quot;Run&quot;,
+    &quot;Python.polimorfismo.executor&quot;: &quot;Run&quot;,
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.pluginManager&quot;
   }
-}]]></component>
+}</component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
       <recent name="C:\Users\bryan\PycharmProjects\PROGRAMACION ORIENTADA OBJETOS\SEMANA 2" />
@@ -189,11 +186,20 @@
       <option name="project" value="LOCAL" />
       <updated>1717983136759</updated>
     </task>
-    <option name="localTasksCounter" value="15" />
+    <task id="LOCAL-00015" summary="Merge remote-tracking branch 'origin/master'&#10;&#10;# Conflicts:&#10;#&#9;.idea/workspace.xml">
+      <option name="closed" value="true" />
+      <created>1719065989385</created>
+      <option name="number" value="00015" />
+      <option name="presentableId" value="LOCAL-00015" />
+      <option name="project" value="LOCAL" />
+      <updated>1719065989385</updated>
+    </task>
+    <option name="localTasksCounter" value="16" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="SEMANA 2" />
-    <option name="LAST_COMMIT_MESSAGE" value="SEMANA 2" />
+    <MESSAGE value="Merge remote-tracking branch 'origin/master'&#10;&#10;# Conflicts:&#10;#&#9;.idea/workspace.xml" />
+    <option name="LAST_COMMIT_MESSAGE" value="Merge remote-tracking branch 'origin/master'&#10;&#10;# Conflicts:&#10;#&#9;.idea/workspace.xml" />
   </component>
 </project>
