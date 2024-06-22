@@ -5,15 +5,10 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="7393dca2-baa1-4725-982f-2b1083932731" name="Changes" comment="SEMANA 2">
-      <change afterPath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_10_6_2024_7_42_[Changes]/shelved.patch" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_10_6_2024_7_42__Changes_.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_10_6_2024_9_42_[Changes]/shelved.patch" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_10_6_2024_9_42__Changes_.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_13_6_2024_17_49_[Changes]/shelved.patch" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_13_6_2024_17_49__Changes_.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_9_6_2024_20_27_[Changes]/shelved.patch" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_9_6_2024_20_27__Changes_.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/SEMANA 2/ABSTRACCION/abstraccion.py" beforeDir="false" afterPath="$PROJECT_DIR$/SEMANA 2/ABSTRACCION/abstraccion.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/SEMANA 2/ENCAPSULACION/encapsulacion.py" beforeDir="false" afterPath="$PROJECT_DIR$/SEMANA 2/ENCAPSULACION/encapsulacion.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/SEMANA 2/HERENCIA/herencia.py" beforeDir="false" afterPath="$PROJECT_DIR$/SEMANA 2/HERENCIA/herencia.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/SEMANA 2/POLIMORFISMO/polimorfismo.py" beforeDir="false" afterPath="$PROJECT_DIR$/SEMANA 2/POLIMORFISMO/polimorfismo.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -36,26 +31,6 @@
     <option name="PUSH_AUTO_UPDATE" value="true" />
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
-  <component name="GitHubPullRequestSearchHistory">{
-  &quot;lastFilter&quot;: {
-    &quot;state&quot;: &quot;OPEN&quot;,
-    &quot;assignee&quot;: &quot;bryanUEA&quot;
-  }
-}</component>
-  <component name="GithubPullRequestsUISettings">
-    <option name="selectedUrlAndAccountId">
-      <UrlAndAccount>
-        <option name="accountId" value="2962f39a-93d5-4654-8cc7-cb6c02feeeb4" />
-        <option name="url" value="https://github.com/bryanUEA/PROGRAMACION-ORIENTADA-OBJETOS.git" />
-      </UrlAndAccount>
-    </option>
-  </component>
-  <component name="HighlightingSettingsPerFile">
-    <setting file="file://$PROJECT_DIR$/POO.py" root0="FORCE_HIGHLIGHTING" />
-  </component>
-  <component name="ProblemsViewState">
-    <option name="selectedTabId" value="DEPENDENCY_CHECKER_PROBLEMS_TAB" />
-  </component>
   <component name="ProjectColorInfo">{
   &quot;associatedIndex&quot;: 2
 }</component>
@@ -67,26 +42,21 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;Python.POO.executor&quot;: &quot;Run&quot;,
-    &quot;Python.SEMANA 2.executor&quot;: &quot;Run&quot;,
-    &quot;Python.abstraccion.executor&quot;: &quot;Run&quot;,
-    &quot;Python.encapsulacion.executor&quot;: &quot;Run&quot;,
-    &quot;Python.herencia.executor&quot;: &quot;Run&quot;,
-    &quot;Python.polimorfismo.executor&quot;: &quot;Run&quot;,
-    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
-    &quot;last_opened_file_path&quot;: &quot;C:/Users/bryan/PycharmProjects/PROGRAMACION ORIENTADA OBJETOS/SEMANA 2/ABSTRACCION&quot;,
-    &quot;run.code.analysis.last.selected.profile&quot;: &quot;pProject Default&quot;,
-    &quot;settings.editor.selected.configurable&quot;: &quot;org.jetbrains.plugins.github.ui.GithubSettingsConfigurable&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Python.POO.executor": "Run",
+    "Python.SEMANA 2.executor": "Run",
+    "Python.abstraccion.executor": "Run",
+    "Python.encapsulacion.executor": "Run",
+    "Python.herencia.executor": "Run",
+    "Python.polimorfismo.executor": "Run",
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "git-widget-placeholder": "master",
+    "settings.editor.selected.configurable": "preferences.pluginManager"
   }
-}</component>
+}]]></component>
   <component name="RecentsManager">
-    <key name="CopyFile.RECENT_KEYS">
-      <recent name="C:\Users\bryan\PycharmProjects\PROGRAMACION ORIENTADA OBJETOS\SEMANA 2\ABSTRACCION" />
-    </key>
     <key name="MoveFile.RECENT_KEYS">
       <recent name="C:\Users\bryan\PycharmProjects\PROGRAMACION ORIENTADA OBJETOS\SEMANA 2" />
     </key>
@@ -219,43 +189,8 @@
       <option name="project" value="LOCAL" />
       <updated>1717983136759</updated>
     </task>
-    <task id="LOCAL-00015" summary="SEMANA 2">
-      <option name="closed" value="true" />
-      <created>1718023507380</created>
-      <option name="number" value="00015" />
-      <option name="presentableId" value="LOCAL-00015" />
-      <option name="project" value="LOCAL" />
-      <updated>1718023507380</updated>
-    </task>
-    <task id="LOCAL-00016" summary="SEMANA 2">
-      <option name="closed" value="true" />
-      <created>1718023633384</created>
-      <option name="number" value="00016" />
-      <option name="presentableId" value="LOCAL-00016" />
-      <option name="project" value="LOCAL" />
-      <updated>1718023633384</updated>
-    </task>
-    <task id="LOCAL-00017" summary="SEMANA 2">
-      <option name="closed" value="true" />
-      <created>1718319032484</created>
-      <option name="number" value="00017" />
-      <option name="presentableId" value="LOCAL-00017" />
-      <option name="project" value="LOCAL" />
-      <updated>1718319032484</updated>
-    </task>
-    <option name="localTasksCounter" value="18" />
+    <option name="localTasksCounter" value="15" />
     <servers />
-  </component>
-  <component name="Vcs.Log.Tabs.Properties">
-    <option name="TAB_STATES">
-      <map>
-        <entry key="MAIN">
-          <value>
-            <State />
-          </value>
-        </entry>
-      </map>
-    </option>
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="SEMANA 2" />
