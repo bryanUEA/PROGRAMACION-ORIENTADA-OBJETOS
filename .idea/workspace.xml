@@ -4,9 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="7393dca2-baa1-4725-982f-2b1083932731" name="Changes" comment="SEMANA 5">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-    </list>
+    <list default="true" id="7393dca2-baa1-4725-982f-2b1083932731" name="Changes" comment="SEMANA 6" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -39,21 +37,22 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;Python.POO.executor&quot;: &quot;Run&quot;,
-    &quot;Python.SEMANA 2.executor&quot;: &quot;Run&quot;,
-    &quot;Python.TIPOS DE DATOS.executor&quot;: &quot;Run&quot;,
-    &quot;Python.abstraccion.executor&quot;: &quot;Run&quot;,
-    &quot;Python.encapsulacion.executor&quot;: &quot;Run&quot;,
-    &quot;Python.herencia.executor&quot;: &quot;Run&quot;,
-    &quot;Python.polimorfismo.executor&quot;: &quot;Run&quot;,
-    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
-    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.pluginManager&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Python.APLICACIONES POO.executor": "Run",
+    "Python.POO.executor": "Run",
+    "Python.SEMANA 2.executor": "Run",
+    "Python.TIPOS DE DATOS.executor": "Run",
+    "Python.abstraccion.executor": "Run",
+    "Python.encapsulacion.executor": "Run",
+    "Python.herencia.executor": "Run",
+    "Python.polimorfismo.executor": "Run",
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "git-widget-placeholder": "master",
+    "settings.editor.selected.configurable": "preferences.pluginManager"
   }
-}</component>
+}]]></component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
       <recent name="C:\Users\bryan\PycharmProjects\PROGRAMACION ORIENTADA OBJETOS\SEMANA 2" />
@@ -243,7 +242,15 @@
       <option name="project" value="LOCAL" />
       <updated>1719526682302</updated>
     </task>
-    <option name="localTasksCounter" value="22" />
+    <task id="LOCAL-00022" summary="SEMANA 6">
+      <option name="closed" value="true" />
+      <created>1720103941409</created>
+      <option name="number" value="00022" />
+      <option name="presentableId" value="LOCAL-00022" />
+      <option name="project" value="LOCAL" />
+      <updated>1720103941409</updated>
+    </task>
+    <option name="localTasksCounter" value="23" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -261,8 +268,9 @@
     <MESSAGE value="SEMANA 2" />
     <MESSAGE value="Merge remote-tracking branch 'origin/master'&#10;&#10;# Conflicts:&#10;#&#9;.idea/workspace.xml" />
     <MESSAGE value="SEMANA 4" />
-    <MESSAGE value="Merge remote-tracking branch 'origin/master'" />
     <MESSAGE value="SEMANA 5" />
-    <option name="LAST_COMMIT_MESSAGE" value="SEMANA 5" />
+    <MESSAGE value="Merge remote-tracking branch 'origin/master'" />
+    <MESSAGE value="SEMANA 6" />
+    <option name="LAST_COMMIT_MESSAGE" value="SEMANA 6" />
   </component>
 </project>

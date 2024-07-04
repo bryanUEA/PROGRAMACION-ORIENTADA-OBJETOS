@@ -1,60 +1,53 @@
-# Definición de la clase base 'Animal'
-class Animal:
-    def __init__(self, nombre, edad):
+# Clase base 'Empleado'
+class Empleado:
+    def __init__(self, nombre, salario):
         self.__nombre = nombre  # Atributo privado (encapsulación)
-        self.__edad = edad      # Atributo privado (encapsulación)
+        self.__salario = salario  # Atributo privado (encapsulación)
 
-    def sonido(self):
+    def obtener_informacion(self):
+        return f"Nombre: {self.__nombre}, Salario: {self.__salario}"
+
+    def trabajar(self):
         pass  # Método que será sobrescrito por las clases derivadas
 
-    def descripcion(self):
-        return f"Nombre: {self.__nombre}, Edad: {self.__edad}"
-
+    # Métodos getter y setter para encapsulación
     def get_nombre(self):
         return self.__nombre
 
     def set_nombre(self, nombre):
         self.__nombre = nombre
 
-    def get_edad(self):
-        return self.__edad
+    def get_salario(self):
+        return self.__salario
 
-    def set_edad(self, edad):
-        self.__edad = edad
+    def set_salario(self, salario):
+        self.__salario = salario
 
-# Definición de la clase derivada 'Perro' que hereda de 'Animal'
-class Perro(Animal):
-    def __init__(self, nombre, edad, raza):
-        super().__init__(nombre, edad)  # Llamada al constructor de la clase base
-        self.raza = raza
+# Clase derivada 'Desarrollador' que hereda de 'Empleado'
+class Desarrollador(Empleado):
+    def __init__(self, nombre, salario, lenguaje):
+        super().__init__(nombre, salario)  # Llamada al constructor de la clase base
+        self.lenguaje = lenguaje
 
-    def sonido(self):
-        return "Guau!"
+    def trabajar(self):
+        return f"{self.get_nombre()} está codificando en {self.lenguaje}"
 
-    def descripcion(self):
-        # Polimorfismo: Sobrescribiendo el método de la clase base
-        return f"{super().descripcion()}, Raza: {self.raza}"
+# Clase derivada 'Diseñador' que hereda de 'Empleado'
+class Diseñador(Empleado):
+    def __init__(self, nombre, salario, herramienta):
+        super().__init__(nombre, salario)  # Llamada al constructor de la clase base
+        self.herramienta = herramienta
 
-# Definición de la clase derivada 'Gato' que hereda de 'Animal'
-class Gato(Animal):
-    def __init__(self, nombre, edad, color):
-        super().__init__(nombre, edad)  # Llamada al constructor de la clase base
-        self.color = color
-
-    def sonido(self):
-        return "Miau!"
-
-    def descripcion(self):
-        # Polimorfismo: Sobrescribiendo el método de la clase base
-        return f"{super().descripcion()}, Color: {self.color}"
+    def trabajar(self):
+        return f"{self.get_nombre()} está diseñando usando {self.herramienta}"
 
 # Crear instancias de las clases y demostrar funcionalidad
-perro = Perro("Rex", 5, "Labrador")
-gato = Gato("Mimi", 3, "Blanco")
+desarrollador = Desarrollador("Alice", 70000, "Python")
+diseñador = Diseñador("Bob", 65000, "Photoshop")
 
-# Mostrar descripciones y sonidos de los animales
-print(perro.descripcion())  # Salida: Nombre: Rex, Edad: 5, Raza: Labrador
-print(perro.sonido())       # Salida: Guau!
+# Mostrar información de los empleados y lo que están haciendo
+print(desarrollador.obtener_informacion())  # Salida: Nombre: Alice, Salario: 70000
+print(desarrollador.trabajar())  # Salida: Alice está codificando en Python
 
-print(gato.descripcion())   # Salida: Nombre: Mimi, Edad: 3, Color: Blanco
-print(gato.sonido())        # Salida: Miau!
+print(diseñador.obtener_informacion())  # Salida: Nombre: Bob, Salario: 65000
+print(diseñador.trabajar())  # Salida: Bob está diseñando usando Photoshop
