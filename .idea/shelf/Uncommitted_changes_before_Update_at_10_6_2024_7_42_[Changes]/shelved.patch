@@ -1,0 +1,112 @@
+Index: SEMANA 2/ABSTRACCION/abstraccion.py
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+diff --git a/SEMANA 2/ABSTRACCION/abstraccion.py b/SEMANA 2/ABSTRACCION/abstraccion.py
+--- a/SEMANA 2/ABSTRACCION/abstraccion.py	(revision 2fc3fb3d0206ebd95977b50f6ebc90c2b4f49225)
++++ b/SEMANA 2/ABSTRACCION/abstraccion.py	(date 1718023283768)
+@@ -1,0 +1,20 @@
++from abc import ABC, abstractmethod
++
++class Animal(ABC):
++    @abstractmethod
++    def hacer_sonido(self):
++        pass
++
++class Perro(Animal):
++    def hacer_sonido(self):
++        return "Guau"
++
++class Gato(Animal):
++    def hacer_sonido(self):
++        return "Miau"
++
++# Uso
++mi_perro = Perro()
++mi_gato = Gato()
++print(mi_perro.hacer_sonido())  # Salida: Guau
++print(mi_gato.hacer_sonido())   # Salida: Miau
+Index: SEMANA 2/ENCAPSULACION/encapsulacion.py
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+diff --git a/SEMANA 2/ENCAPSULACION/encapsulacion.py b/SEMANA 2/ENCAPSULACION/encapsulacion.py
+--- a/SEMANA 2/ENCAPSULACION/encapsulacion.py	(revision 2fc3fb3d0206ebd95977b50f6ebc90c2b4f49225)
++++ b/SEMANA 2/ENCAPSULACION/encapsulacion.py	(date 1718023290976)
+@@ -1,0 +1,15 @@
++class Coche:
++    def __init__(self, velocidad_maxima):
++        self.__velocidad_maxima = velocidad_maxima  # Variable privada
++
++    def set_velocidad_maxima(self, velocidad):
++        self.__velocidad_maxima = velocidad
++
++    def get_velocidad_maxima(self):
++        return self.__velocidad_maxima
++
++# Uso
++mi_coche = Coche(180)
++print(mi_coche.get_velocidad_maxima())  # Salida: 180
++mi_coche.set_velocidad_maxima(200)
++print(mi_coche.get_velocidad_maxima())  # Salida: 200
+Index: SEMANA 2/HERENCIA/herencia.py
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+diff --git a/SEMANA 2/HERENCIA/herencia.py b/SEMANA 2/HERENCIA/herencia.py
+--- a/SEMANA 2/HERENCIA/herencia.py	(revision 2fc3fb3d0206ebd95977b50f6ebc90c2b4f49225)
++++ b/SEMANA 2/HERENCIA/herencia.py	(date 1718023299518)
+@@ -1,0 +1,19 @@
++class Vehiculo:
++    def __init__(self, marca, modelo):
++        self.marca = marca
++        self.modelo = modelo
++
++    def descripcion(self):
++        return f"Marca: {self.marca}, Modelo: {self.modelo}"
++
++class Coche(Vehiculo):
++    def __init__(self, marca, modelo, tipo):
++        super().__init__(marca, modelo)
++        self.tipo = tipo
++
++    def descripcion(self):
++        return f"{super().descripcion()}, Tipo: {self.tipo}"
++
++# Uso
++mi_coche = Coche("Toyota", "Corolla", "Sedán")
++print(mi_coche.descripcion())  # Salida: Marca: Toyota, Modelo: Corolla, Tipo: Sedán
+Index: SEMANA 2/POLIMORFISMO/polimorfismo.py
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+diff --git a/SEMANA 2/POLIMORFISMO/polimorfismo.py b/SEMANA 2/POLIMORFISMO/polimorfismo.py
+--- a/SEMANA 2/POLIMORFISMO/polimorfismo.py	(revision 2fc3fb3d0206ebd95977b50f6ebc90c2b4f49225)
++++ b/SEMANA 2/POLIMORFISMO/polimorfismo.py	(date 1718023308212)
+@@ -1,0 +1,22 @@
++class Ave:
++    def hacer_sonido(self):
++        return "Canto de ave"
++
++class Pato(Ave):
++    def hacer_sonido(self):
++        return "Cuac"
++
++class Gallina(Ave):
++    def hacer_sonido(self):
++        return "Cloc"
++
++# Función polimórfica
++def hacer_cantar(ave):
++    print(ave.hacer_sonido())
++
++# Uso
++pato = Pato()
++gallina = Gallina()
++
++hacer_cantar(pato)     # Salida: Cuac
++hacer_cantar(gallina)  # Salida: Cloc
